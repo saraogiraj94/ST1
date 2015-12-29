@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavigationDrawerDemo</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    
+    <string-array name="main">
+        <item>"Packing Material"</item>
+        <item>"Marker Pen"</item>
+        <item>"Wool Fabric"</item>
+        <item>"Felt Cloth"</item>
+        <item>"Other Stationary"</item>
+    </string-array>
+</resources>
